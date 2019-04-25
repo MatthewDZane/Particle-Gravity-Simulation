@@ -1,0 +1,6 @@
+#Collision with three particles moving toward a single point.
+#so they will all collide with each other at once.
+# Particles have negligible mass.
+.000001,100,-8.660254038E-6,5E-6,259.8076211,-150
+.000001,100,8.660254038E-6,5E-6,-259.8076211,-150
+.000001,100,0,-1E-5,0,300

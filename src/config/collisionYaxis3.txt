@@ -1,0 +1,4 @@
+#Collision with one particle initially still and the other moving on the y-axis
+#particles have negligible mass
+.000001,100,0,1E-06,0,-400
+.000001,100,0,0,0,0

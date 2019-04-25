@@ -1,0 +1,5 @@
+#Collision with one particle initially still and the other moving in two dimensions
+#particles have negligible mass
+#Particles have negligible mass
+.000001,100,1E-06,1E-06,-400,-400
+.000001,100,0,0,0,0

@@ -1,0 +1,4 @@
+#Collision with the particles moving in the opposite direction.
+#in two dimensions. Particles have negligible mass.
+.000001,100,-5E-07,-5E-07,300,300
+.000001,100,5E-07,5E-07,-300,-300
