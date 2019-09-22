@@ -1,0 +1,4 @@
+#Collision with the particles moving in opposite directions.
+#Angle of collision is 45 degrees. Particles have negligible mass.
+.000001,100,-5E-07,0,300,70.71067812
+.000001,100,5E-07,0,-300,-70.71067812

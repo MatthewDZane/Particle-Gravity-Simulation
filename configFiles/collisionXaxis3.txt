@@ -1,0 +1,4 @@
+#Collision with one body initially still and the other moving on the x-axis
+#bodies have negligible mass
+.000001,100,1E-06,0,-500,0
+.000001,100,0,0,0,0

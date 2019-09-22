@@ -1,0 +1,4 @@
+#Collision with both bodies moving in the same direction on the y-axis
+#bodies have negligible mass
+.000001,100,0,2E-06,0,-600
+.000001,100,0,1E-06,0,0

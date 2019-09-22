@@ -1,0 +1,8 @@
+#Collision with three particles initially at rest, but positioned.
+#so they will all collide with each other at once. Theoretically they
+#will bounce of each other indefinitely. 
+#TODO: need to fix. rounding error makes this impossible.
+# Particles have negligible mass.
+100,100,0,0,259.8076211,-150
+100,100,0,0,-259.8076211,-150
+100,100,0,0,0,300

@@ -1,0 +1,4 @@
+#Collision with the bodies moving in the opposite direction on the x-axis
+#bodies have negligible mass
+1e-6,100,1e-6,0,-400,0
+1e-6,100,-1e-6,0,400,0
