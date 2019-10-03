@@ -1,10 +1,10 @@
 # Particle-Gravity-Simulation
 This project simulates the movement of particles in 3D space with a given starting configuration of particles of a certain mass, size, 
-velocity and position. Particles move through out a 3D space by interacting with each others gravitaitonal force and particle collisions.
+velocity and position. Particles move through out a 3D space by interacting with each others gravitational force and particle collisions.
 There are three programs included in this repository. The first one is GravitySimulation, which simulates, often slowly, the movement and
 interaction of the particles. It is recommended to let the program run for a couple hours for better results. The second one is the
 GravitySimulationPlayback, which then plays back a simulation. These two programs have a display with the user can move around in using
-the The last program will generate an inital configuration into a file, which
+the The last program will generate an initial configuration into a file, which
 then can later be used for simulating.
 
 How to run:
